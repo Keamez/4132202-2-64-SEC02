@@ -5,7 +5,7 @@ const age = 20;
 const dom = (
     <>
       <h1>Hello React !!!</h1>
-      <p>My name is Chindanai Pratumsa, {age} year old.</p>
+      <p>My name is Chindanai, {age} year old.</p>
     </>
 );
 
